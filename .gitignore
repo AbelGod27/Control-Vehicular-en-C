@@ -1,0 +1,15 @@
+# Ejecutables
+servidor
+cliente
+pruebas/prueba_validaciones
+pruebas/prueba_archivos
+*.out
+
+# Archivos objeto
+*.o
+
+# Datos del sistema (no se entregan)
+datos/*.txt
+
+# Bitacora
+*.log
