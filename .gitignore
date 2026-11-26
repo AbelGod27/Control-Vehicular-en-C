@@ -13,3 +13,5 @@ datos/*.txt
 
 # Bitacora
 *.log
+
+.vscode
